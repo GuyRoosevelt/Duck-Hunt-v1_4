@@ -1,5 +1,5 @@
 {
-    "name": "Duck Hunt v1.6",
+    "name": "Duck Hunt v1.4",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -18,7 +18,8 @@
         "tilemap.g.ts",
         "main.py",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
